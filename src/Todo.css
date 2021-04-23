@@ -1,0 +1,12 @@
+body {
+    background: rgb(210, 221, 112);
+    transition: all 1s;
+    background-image: url("skull.jpg");
+    background-repeat: no-repeat;
+    background-size: 100pc;
+
+}
+.todos form {
+    background: coral;
+    padding: 30px;
+}
